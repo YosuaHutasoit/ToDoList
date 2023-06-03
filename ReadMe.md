@@ -96,46 +96,6 @@ Authorization: Bearer token
             "email": "sarah@example.com",
             "createdAt": "2023-05-26T12:58:35.000Z",
             "updatedAt": "2023-05-26T12:58:35.000Z"
-        },
-        {
-            "id": 6,
-            "name": "Sarah",
-            "password": "pasword456",
-            "email": "sarah@example.com",
-            "createdAt": "2023-05-26T13:10:41.000Z",
-            "updatedAt": "2023-05-26T13:10:41.000Z"
-        },
-        {
-            "id": 7,
-            "name": "Sarah",
-            "password": "pasword456",
-            "email": "sarah@example.com",
-            "createdAt": "2023-05-26T13:12:21.000Z",
-            "updatedAt": "2023-05-26T13:12:21.000Z"
-        },
-        {
-            "id": 8,
-            "name": null,
-            "password": null,
-            "email": null,
-            "createdAt": "2023-05-26T13:17:12.000Z",
-            "updatedAt": "2023-05-26T13:17:12.000Z"
-        },
-        {
-            "id": 9,
-            "name": "Sarah",
-            "password": "pasword456",
-            "email": "sarah@example.com",
-            "createdAt": "2023-05-26T13:20:59.000Z",
-            "updatedAt": "2023-05-26T13:20:59.000Z"
-        },
-        {
-            "id": 10,
-            "name": "Sarah",
-            "password": "pasword456",
-            "email": "sarah@example.com",
-            "createdAt": "2023-05-26T13:38:33.000Z",
-            "updatedAt": "2023-05-26T13:38:33.000Z"
         }
     ]
 }
